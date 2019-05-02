@@ -1,0 +1,4 @@
+#Thu May 02 16:13:48 BDT 2019
+base.0=G\:\\AndroidStudioP\\Stock_Squeeze\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex

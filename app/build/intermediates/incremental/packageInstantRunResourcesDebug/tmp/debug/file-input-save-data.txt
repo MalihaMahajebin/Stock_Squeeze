@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Sat Apr 20 21:12:52 BDT 2019
+0.baseType=DIRECTORY
+0.base=C\:\\Users\\Tahmina aker\\Downloads\\Android\\Zone-Trading-Alerts-Android-App-master\\app\\build\\intermediates\\assets\\debug
+0.path=crashlytics-build.properties
+0.set=ASSET
+count=1
